@@ -17,5 +17,3 @@ def c(l = [1, 2]):
     l.append(3)
     return l
 print(c())
-
-
